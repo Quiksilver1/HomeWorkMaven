@@ -1,0 +1,5 @@
+2021-03-22 19:55:26.720 [main] INFO  MainApp - Info
+2021-03-22 19:55:26.730 [main] WARN  MainApp - Warn
+2021-03-22 19:55:26.731 [main] ERROR MainApp - Error
+2021-03-22 19:55:26.732 [main] FATAL MainApp - Fatal
+2021-03-22 19:55:26.736 [main] INFO  MainApp - String: Hello, World.
