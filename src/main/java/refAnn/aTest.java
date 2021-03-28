@@ -5,10 +5,6 @@ public class aTest {
     public A a;
     public boolean equ=false;
 
-
-    /* public static void main(String[] args) {
-         sum();
-     }*/
     @MyAnnot(value = 8)
     @Test
     public void sum() {
@@ -32,7 +28,6 @@ public class aTest {
             System.out.println("Test sum fail");
         }
     }
-
 
     @MyAnnot(value = 7)
     @Test
@@ -58,7 +53,6 @@ public class aTest {
         }
     }
 
-
     @MyAnnot(value = 6)
     @Test
     public void multi() {
@@ -82,6 +76,7 @@ public class aTest {
             System.out.println("Test multi fail");
         }
     }
+
 
     @BeforeSuit
     @Test

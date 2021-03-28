@@ -1,14 +1,13 @@
 package refAnn;
 
-import java.lang.annotation.Annotation;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.util.Arrays;
 import java.util.NavigableSet;
-import java.util.Set;
 import java.util.TreeSet;
 
 public class B {
+
+
 
     private static int touchB = 0;
     private static int touchA = 0;
@@ -51,7 +50,6 @@ public class B {
                 }
             }
         }
-
     }
 }
 
