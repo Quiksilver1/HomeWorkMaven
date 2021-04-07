@@ -3,7 +3,6 @@ package Chat.clientside.One;
 import Chat.serverside.service.ClientHandler;
 import Chat.serverside.service.Singleton;
 import Chat.serverside.service.User;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.WindowAdapter;
